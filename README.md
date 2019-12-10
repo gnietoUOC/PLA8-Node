@@ -19,4 +19,5 @@ El aspecto de ese mini dashboard se muestra a continuación.
 
 ![Dashboard](./images/Dashboard.png)
 
+Nota: El SVG para la bombilla lo he obtenido en https://www.svgrepo.com/vectors/bulb/14
 
